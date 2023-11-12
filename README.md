@@ -1,5 +1,5 @@
 # Proposal for 2023 Seismic Hazard Model and Seismic Disaggregation Tool for Ecuador using Probabilistic Seismic Hazard Analysis
-## Patricio Palacios 1*, Carlos Celi 1† and José Poveda 2†
+## [Patricio Palacios](https://github.com/ppalacios92) 1*, [Carlos Celi](https://github.com/Normando1945) 1† and José Poveda 2†
 ### 1 Facultad de Ingenieria, Pontificia Universidad Catolica del Ecuador, Ave 12 de Octubre, Quito, 170143, DMQ, Ecuador
 ### 2 Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre, Scuola Universitaria Superiore, IUSS di Pavia, Pavia, 27100, Italy.
 
