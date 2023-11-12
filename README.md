@@ -3,8 +3,8 @@
 ### 1 Facultad de Ingenieria, Pontificia Universidad Catolica del Ecuador, Ave 12 de Octubre, Quito, 170143, DMQ, Ecuador
 ### 2 Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre, Scuola Universitaria Superiore, IUSS di Pavia, Pavia, 27100, Italy.
 
-### *Corresponding author(s). E-mail(s): pxpalacios@puce.edu.ec.
-### Contributing authors: caceli@puce.edu.ec; jose.poveda@iusspavia.it.
+### *Corresponding author(s). E-mail(s): [pxpalacios@puce.edu.ec](https://github.com/ppalacios92).
+### Contributing authors: [caceli@puce.edu.ec](https://github.com/Normando1945); jose.poveda@iusspavia.it.
 ### † These authors contributed equally to this work.
 
 
