@@ -15,7 +15,7 @@ Abstract. This work presents an updated proposal for the probabilistic seismic h
 
 ### Disclaimer for Seismic Hazard Research
 
-This document is presented as a ***technical draft*** intended solely for seismic hazard research. The information contained in this report is subject to ongoing review and may be modified without prior notice. The authors of this document assume no responsibility for the interpretation, use, or misunderstanding of the information provided herein.
+This document is presented as a ***technical draft*** intended solely for seismic hazard research for ***academic purposes***. The information contained in this report is subject to ongoing review and may be modified without prior notice. The authors of this document assume no responsibility for the interpretation, use, or misunderstanding of the information provided herein.
 
 It should be noted that this report is based on data collected and methodologies established up to the date of its preparation. Consequently, any changes in the understanding of seismology, geological conditions, or seismic hazard assessment methodologies may affect the validity of the conclusions presented in this document.
 
