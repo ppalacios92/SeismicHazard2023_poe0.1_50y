@@ -27,4 +27,4 @@ This disclaimer is issued with the purpose of protecting the authors and does no
 
 # **Seismic Hazard Tools**
 Thank you for accessing and utilizing the files in this repository. These programs are provided with the intent to support professionals and students in seismic hazard analysis. While freely accessible, it is essential to adhere to repository guidelines.
-[Seismic Hazard Analysis](https://github.com/ppalacios92/SeismicHazardAnalysis)
+[Seismic Hazard Analysis](https://github.com/ppalacios92/SeismicHazardAnalysisTools)
