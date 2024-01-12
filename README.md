@@ -24,3 +24,7 @@ It should be noted that this report is based on data collected and methodologies
 Users of this report are responsible for verifying the currency of the information and for considering any additional scientific developments that may have occurred after the publication date. It is strongly recommended that any practical application of the information contained in this report be carried out by professionals trained in the fields of seismology and structural engineering.
 
 This disclaimer is issued with the purpose of protecting the authors and does not absolve users of the responsibility to critically assess the information provided and to seek professional advice when necessary. The authors are not liable for any damage or loss that may arise from the use of this document for practical purposes or design decisions.
+
+# **Seismic Hazard Tools**
+Thank you for accessing and utilizing the files in this repository. These programs are provided with the intent to support professionals and students in seismic hazard analysis. While freely accessible, it is essential to adhere to repository guidelines.
+[Seismic Hazard Analysis](https://github.com/ppalacios92/SeismicHazardAnalysis)
