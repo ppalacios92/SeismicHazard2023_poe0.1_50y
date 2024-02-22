@@ -13,8 +13,10 @@ Abstract. This work presents an updated proposal for the probabilistic seismic h
 ## FIRST DRAFT LINK: 
 <!-- ### https://ppalacios92.github.io/SeismicHazard2023_poe0.1_50y/ -->
 
-### https://qgiscloud.com/ppalacios92/CLOUD_hmap_mean_PGA_poe-0_1_50_0y/
-Updated Repository: February 11, 2024
+### https://qgiscloud.com/ppalacios92/CLOUD_hmap_mean_PGA_poe_0_1_50_0y/
+Updated Repository: 
+- February 11, 2024. Updated map.
+- February 22, 2024. Updated name.
 
 ### Disclaimer for Seismic Hazard Research
 
