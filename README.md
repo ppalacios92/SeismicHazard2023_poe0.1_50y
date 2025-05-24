@@ -12,7 +12,7 @@ Abstract. This work presents an updated proposal for the probabilistic seismic h
 
 ## FIRST DRAFT LINK: 
 
-### [Proposal for 2024 Seismic Hazard Model Tool for Ecuador](https://ppalacios92.github.io/SeismicHazard2023_poe0.1_50y/)
+### [Proposal for 2024 Seismic Hazard Model Tool for Ecuador](https://ppalacios92.github.io/HazardMapTest03/HazardMapTest03.html)
 
 Updated Repository: 
 - February 11, 2024. Updated map.
